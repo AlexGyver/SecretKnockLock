@@ -33,15 +33,15 @@
 
 <a id="chapter-3"></a>
 ## Материалы и компоненты
-* Arduino NANO http://ali.ski/rWrni
-* Серво http://ali.ski/KbBJY
-* Батарейный отсек http://ali.ski/wwtAiC
-* Сенсорная кнопка http://ali.ski/s05R9
+* Arduino NANO https://ali.ski/w2Q55
+* Серво https://ali.ski/NC43Yx
+* Батарейный отсек https://ali.ski/mQs-C2
+* Сенсорная кнопка https://ali.ski/zWJfb
 
-* Датчик звука http://ali.ski/oDlkMQ
-* Датчик удара http://ali.ski/Jl8QpL
-* Датчик вибрации точный http://ali.ski/bFgK0g
-* Датчик вибрации не очень точный http://ali.ski/xhcEmh
+* Датчик звука https://ali.ski/k--wR
+* Датчик удара https://ali.ski/1tlqOH
+* Датчик вибрации точный https://ali.ski/GdvGr
+* Датчик вибрации не очень точный https://ali.ski/M9Hoa
 
 РАССЫПУХА
 * МОСФЕТ 
